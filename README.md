@@ -1,4 +1,4 @@
-# Ice-Breaker-Problem-with-CSPs
+# Ice Breaker Problem with CSPs
 
 ## Introduction
 
